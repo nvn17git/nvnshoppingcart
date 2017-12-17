@@ -3,8 +3,8 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.demo</groupId>
 	<packaging>war</packaging>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>pages Maven Webapp</name>
+	<version>1.0.0-SNAPSHOT</version>
+	<name>nvnshoppingcart</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 		<dependency>
@@ -139,7 +139,7 @@
 	
 	</dependencies>
 	<build>
-		<finalName>pages</finalName>
+		<finalName>nvnshoppingcart</finalName>
 	</build>
 	<artifactId>registration</artifactId>
 </project>
